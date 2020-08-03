@@ -2,15 +2,15 @@ Panduan untuk menjalankan percobaan ukuran piksel gambar:
 Dalam menjalankan percobaan ukuran piksel gambar dapat dengan menjalankan "SGAN.ipynb" dan "PSGAN.ipynb" dengan konfigurasi hyperparameter yang digunakan adalah sebagai berikut:
  - Ukuran gambar 128x128 piksel
   batch_size : 8
-  epoch iteration : 100
+  epoch iteration : 500
   zx : 4 
  - Ukuran gambar 256x256 piksel
   batch_size : 8
-  epoch iteration : 100
+  epoch iteration : 500
   zx : 8
  - Ukuran gambar 512x512 piksel
   batch_size : 8
-  epoch iteration : 100
+  epoch iteration : 500
   zx : 16
   
 Panduan untuk menjalankan jumlah gambar input:
